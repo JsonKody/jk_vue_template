@@ -31,6 +31,22 @@
   padding-top: 4rem;
 }
 
+// fade - vue-router transition
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
 // @media screen and (min-width: 768px) {
 //   :root {
 //     padding-top: 0;
