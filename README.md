@@ -1,5 +1,7 @@
 # JK_NAZEV_PROJEKTU 🤌🧐🍷
 
+**\_Tenhle odstavec smaz, zde jen popisu tento template -> jde o Vite + vue3 + vue-router + pinia + tailwind .. pouzivam pnpm namisto npm. Jsou definovany pisma Roboto a Asap - styly jsou font-roboto a font-asap. Je definovana direktiva v-pop ktera pouziva floating-ui a plni funkci tooltipu**
+
 ### [odkaz](http://SEM_NAPIS_URL)
 
 ![screenshot](./src/assets/images/screenshot.png)
@@ -14,8 +16,7 @@
 
 ## Popis
 
-`JK_NAZEV_PROJEKTU` zde napis dalsi popis projektu ... 
-
+`JK_NAZEV_PROJEKTU` zde napis dalsi popis projektu ...
 
 ## Instalace
 
@@ -36,7 +37,9 @@ git clone git@github.com:JsonKody/JK_NAZEV_PROJEKTU.git
 ```bash
 npm i -g pnpm
 ```
+
 **závislosti**
+
 ```bash
 pnpm i
 ```
@@ -49,13 +52,12 @@ pnpm dev
 
 Aplikaci naleznete po úspěšném spuštění na [localhost:4040](http://localhost:4040).
 
-
-
 ## Příspěvky
 
 Máte-li nějaké nápady na vylepšení nebo chcete opravit bug, neváhejte vytvořit pull request, či založit `issue`.
 
 ## Licence
+
 POZOR - pokud tohle pouzivas a nejsi Daniel Cech tak jdi do licence a zmen jmeno na sve. A pripadne zmen rok.
 
 Tento software `Numeral_playground` je poskytován pod MIT licencí, která je dostupná v souboru [LICENSE](LICENSE).
