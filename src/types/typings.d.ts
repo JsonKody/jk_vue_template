@@ -1,0 +1,3 @@
+// Game type
+
+export type {  };
